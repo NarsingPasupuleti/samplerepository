@@ -1,0 +1,16 @@
+This is narsing Rao. I am having 5 years of experience into QA. In which,
+3 years is into manual testing and 2 years into automation testing.
+Coming to automation I have experience into using cypress with javascript.
+I have experience in to DB testing as well.
+
+Coming to my roles and responsibilities 
+
+We are following agile methodology where our sprint size is 2 weeks.
+We start pick manual test cases and start automating. 
+Per sprint we automate 10 story points. Which covers 5-7 test cases per sprint.
+
+Also we participate in scrum call and retrospective meetings. 
+
+We maintain our test cases in GitHub and we run our test cases in Jenkins.
+
+As a team member, I also review the test cases of other testers.
